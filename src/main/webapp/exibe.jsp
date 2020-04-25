@@ -18,6 +18,8 @@
         <% 
           out.println( (new java.util.Date()).toLocaleString());
         %>
+        <a href="/form.jsp">Inicio</a>
+        
     </nav>
     <body>
         <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %> 
